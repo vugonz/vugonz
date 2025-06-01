@@ -12,11 +12,7 @@ My main interests are Fullstack Web Development, DevOps and Computer Networks. I
 - Personal Website: [vugonz.xyz](https://vugonz.xyz)
 - LinkedIn: https://www.linkedin.com/in/goncalorazevedo
 
-<h2 align="center">GitHub Stats</h2>
-
-###
-
+## GitHub Stats
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vugonz&theme=bear" width=750  alt="stats graph"/>
-
 </div>
